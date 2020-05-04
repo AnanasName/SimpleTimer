@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/amiko_bold</item>
+        <item>@font/averia_serif_libre_light</item>
+        <item>@font/baloo_thambi</item>
+        <item>@font/bangers</item>
+        <item>@font/bowlby_one</item>
+        <item>@font/chela_one</item>
+        <item>@font/days_one</item>
+        <item>@font/denk_one</item>
+        <item>@font/goblin_one</item>
+        <item>@font/im_fell_french_canon</item>
+        <item>@font/lato_bold</item>
+        <item>@font/luckiest_guy</item>
+        <item>@font/montserrat_subrayada_bold</item>
+        <item>@font/oldenburg</item>
+        <item>@font/oswald_bold</item>
+        <item>@font/oswald_light</item>
+        <item>@font/playfair_display_black</item>
+        <item>@font/press_start_2p</item>
+        <item>@font/russo_one</item>
+        <item>@font/wellfleet</item>
+    </array>
+</resources>
